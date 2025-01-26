@@ -1,3 +1,3 @@
 print("hola pringated")
-nodd3r = True
+nodd3r = 'Hola'
 print("probando GitIgnore")
